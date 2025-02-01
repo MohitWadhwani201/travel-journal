@@ -1,4 +1,4 @@
-export default [
+export default (
     {
       id:1,
      country:"Japan",
@@ -35,4 +35,4 @@ export default [
       city:"Busan",
       dis:"South Korea's second-largest city and cultural hub, Busan is home to beautiful coastlines, hot springs, and modern skyscrapers.Key attractions include the bustling Jagalchi Fish Market, the beautiful Haedong Yonggungsa Temple, and the vibrant nightlife in Seomyeon."
     }
-]
+  )
